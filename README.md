@@ -29,5 +29,8 @@ Colab Notebooks
 
 
 
+Two important Blogs for DL
+http://karpathy.github.io/
+http://colah.github.io/
 
 
