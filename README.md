@@ -1,6 +1,6 @@
-# DeepLearning Lectures
+# DeepLearning Lectures and Projects
 
-These lectures are from Udemy Tensorflow Practical and Advanced course.
+These lectures and projects are from Udemy Tensorflow Practical and Advanced course.
 
 https://www.udemy.com/course/tensorflow-2-practical/
 
